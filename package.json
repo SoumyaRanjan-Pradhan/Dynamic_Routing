@@ -1,0 +1,16 @@
+{
+  "name": "interview-projects",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.14.4",
+    "react": "^19.1.0",
+    "react-router-dom": "^6.30.0",
+    "reactdom": "^2.0.0"
+  }
+}
