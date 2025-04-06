@@ -4,6 +4,7 @@ import {
     createBrowserRouter,
     RouterProvider,
   } from 'react-router-dom';
+import NotFoundPage from './NotFoundPage';
 
   const router = createBrowserRouter([
     {
